@@ -1,0 +1,133 @@
+html,
+body {
+  background-color: #DBBFFF;
+
+}
+
+label {
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+input {
+  border: 1px #ccc solid;
+  width: 180px;
+
+}
+
+small {
+  text-align: center;
+  display: block;
+  color: #f00;
+}
+
+.erro {
+  border: 1px #f00 solid;
+}
+
+.sucesso {
+  border: 1px #ccc solid;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+* {
+  padding: 10px;
+}
+
+
+.enviar {
+  margin-top: 1.5em;
+  height: 51px;
+  background: #66548B;
+  border-radius: 500px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#nome {
+  padding: 20px 75px 20px 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  letter-spacing: 0.05em;
+
+}
+
+#email {
+  padding: 20px 75px 20px 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  letter-spacing: 0.05em;
+}
+
+
+#senha {
+  padding: 20px 75px 20px 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  letter-spacing: 0.05em;
+}
+
+form {
+  display: block;
+  text-align: center;
+}
+
+#mensagem {
+  text-align: center;
+  color: #f00;
+  margin: auto;
+}
+
+#visualizar {
+  width: auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+b {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  display: block;
+}
+
+.ver {
+  width: 30px;
+  margin: auto auto;
+}
+
+.senhaFlex {
+  display: inline-flex;
+  width: 30% 30%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+img {
+  cursor: pointer;
+  right: 500px;
+  position: absolute;
+  width: 20px;
+
+}
+
+@media screen and (max-width: 600px) {
+
+  img {
+    height: 5%;
+    width: 65%;
+    top: 270px;
+    left: 340px;
+
+  }
+}
