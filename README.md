@@ -13,3 +13,12 @@ Repositório para armazenar o projeto referente ao trabalho de LPW do 3º bimest
 
 ### Apenas o código do projeto se encontra na pasta: 
     Serotonina_PHP_BDD_LPW
+    
+<br>
+
+### Integrantes:
+
+       Giovanna Laura
+       Mayara Yurika
+       Mônica Macêdo
+       Stephany Christine
