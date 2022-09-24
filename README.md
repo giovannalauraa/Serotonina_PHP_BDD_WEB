@@ -8,3 +8,8 @@ Repositório para armazenar o projeto referente ao trabalho de LPW do 3º bimest
     • Front e Back end do projeto
     • Documentação do projeto
     • Dump.sql do projeto
+    
+<br>
+
+### Apenas o código do projeto se encontra na pasta: 
+    Serotonina_PHP_BDD_LPW
